@@ -1,0 +1,26 @@
+@font-face {
+    font-family: 'SVBasicManual'; /*a name to be used later*/
+    src: url('./fonts/SVBasicManual.ttf'); /*URL to font*/
+}
+
+* {
+  font-family: 'SVBasicManual';
+
+}
+
+#code-snippet-body {
+  background: black;
+  color: white;
+}
+
+.purple-text {
+  color: #bf7396;
+}
+
+.orange-text {
+  color: #ff9a56;
+}
+
+.blue-text {
+  color: #21ffff;
+}

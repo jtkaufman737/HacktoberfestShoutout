@@ -9,4 +9,4 @@ Add your name to the contributors folder with the following format:
 - [ ] **1.** File in the language of your choice, put your github ID in the file name somewhere
 - [ ] **2.** You need to print a message with your github username and the type of open source projects you are interested in!
 
-Submit a pull request and I will accept it for [Hacktoberfest](https://hacktoberfest.digitalocean.com/) :) Happy Hacking! :ghost: :jack_o_lantern: :candy:
+Submit a pull request and I will accept it for [Hacktoberfest](https://hacktoberfest.digitalocean.com/) :) Happy Hacking! :ghost: :jack_o_lantern: :candy: :beer:

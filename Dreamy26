@@ -1,0 +1,4 @@
+const myName = `DreamyWilso`;
+const message = `My name is ${myName} and I would love to work on projects that javaScript related to build mini useful games.`;
+
+console.log(message);
